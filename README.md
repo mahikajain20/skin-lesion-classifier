@@ -1,2 +1,2 @@
 # skin-lesion-classifier
-Final Project Lighthouse Lans (Data Science)
+Final Project Lighthouse Labs (Data Science)
